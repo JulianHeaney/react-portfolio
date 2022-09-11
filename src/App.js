@@ -34,7 +34,7 @@ function App() {
             ></Navigation>
           </Header>
         </header>
-        <main>
+        <main className="components">
           <Page currentPage={currentPage}></Page>
         </main>
       </div>
