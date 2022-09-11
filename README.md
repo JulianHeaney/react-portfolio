@@ -4,7 +4,7 @@
 A single page portfolio built with React.
 
 Deployed App: https://nameless-river-00608.herokuapp.com/
-
+![Screenshot](./src/assets/react-portfolio-screenshot.png)
 
 ## Built With
 - [Create React App](https://github.com/facebook/create-react-app)
