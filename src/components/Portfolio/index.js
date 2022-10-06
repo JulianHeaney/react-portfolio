@@ -16,10 +16,10 @@ function Portfolio() {
             asset: 'note-taker.png'
         },
         {
-            name: 'Pick Up',
-            appUrl: 'https://pick-up-event.herokuapp.com/',
-            repoUrl: 'https://github.com/Fathpinder/pick-up',
-            asset: 'pick-up-screenshot.png'
+            name: 'I CAN HAZ',
+            appUrl: 'https://i-can-hazz.herokuapp.com/',
+            repoUrl: 'https://github.com/jbradley84/i-can-haz',
+            asset: 'i-can-haz.png'
         },
         {
             name: 'Team Profile Generator',
